@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="pathToExecutable" value="C:\Python312\Scripts\black.exe" />
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
     <option name="sdkName" value="LeverlessKO" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="LeverlessKO" project-jdk-type="Python SDK" />
